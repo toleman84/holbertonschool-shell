@@ -1,4 +1,5 @@
 #!/bin/bash
 $ ./0-current_working_directory
 /0x00-shell_basics
+$ wc -l 0-current_working_directory
 $ chmod u+x 0-current_working_directory
