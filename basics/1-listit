@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ls basics
+$ ls basics | chmod u+x file
