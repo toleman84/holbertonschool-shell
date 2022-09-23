@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff tmppfile_hello
+chown vincent:staff tmpfile_hello
