@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f1 nasa_19950801.tsv
+head nasa_19950801.tsv
