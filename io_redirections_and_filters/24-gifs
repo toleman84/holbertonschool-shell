@@ -1,2 +1,2 @@
 #!/bin/bash
-find *.gif | ls -1S
+find *.gif -type f | ls -1S
