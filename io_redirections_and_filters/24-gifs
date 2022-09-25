@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 
+ls *.gif -1Sa
