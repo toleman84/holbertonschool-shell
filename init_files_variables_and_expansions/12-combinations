@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a,b,c,d,e,f,g,h,i,j,k,l,l,m,n,ñ,p,q,r,s,t,v,w,x,y,z}{a,b,c,d,e,f,g,h,i,j,k,l,m,n,ñ,p,q,r,s,t,v,w,x,y,z}
+echo {a,b,c,d,e,f,g,h,i,j,k,l,l,m,n,ñ,p,q,r,s,t,v,w,x,y,z}{a,b,c,d,e,f,g,h,i,j,k,l,m,n,ñ,p,q,r,s,t,v,w,x,y,z} "\n"
